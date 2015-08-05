@@ -13,6 +13,11 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=amu02.af
 == Description ==
 WP Custom Taxonomy Image Plugin allow you to add image with category/taxonomy.
 
+= Features =
+* Setting ,for which taxonomy ,image field is to be enable. 
+* Very simple in use
+* Can be customized easily.
+
 == Screenshots ==
 1. Settings page where you can select the taxonomies you want to include it in WP Custom Taxonomy Image
 2. Example of the category/taxonomy image under the general category 
