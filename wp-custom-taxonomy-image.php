@@ -3,7 +3,7 @@
  * Plugin Name: WP Custom taxonomy Image
  * Plugin URI: https://aftabhusain.wordpress.com/
  * Description: WP Custom Taxonomy Image Plugin allow you to add image with category/taxonomy.
- * Version: 1.0.1
+ * Version: 1.0.0
  * Author: Aftab Husain
  * Author URI: https://aftabhusain.wordpress.com/
  * License: GPLv2

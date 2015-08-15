@@ -27,13 +27,7 @@ WP Custom Taxonomy Image Plugin allow you to add image with category/taxonomy.
 1. No technical skills needed.
 
 == Changelog ==
-
-= 1.0.1 =
-* Bug fixes
-* Update readme.txt
-
-= 1.0.0 =
-* Initial release
+This is first version no known errors found
 
 == Upgrade Notice == 
 This is first version no known notices yet
@@ -50,7 +44,7 @@ the top-level folder. Don't just upload all the php files and put them in `/wp-c
 <?php 
 if (function_exists('get_wp_term_image'))
 {
-    $meta_image = get_wp_term_image($term_id);
+    $meta_image = get_wp_term_image($term_id); //It will give category/term image url 
 }
 ?>
 `
