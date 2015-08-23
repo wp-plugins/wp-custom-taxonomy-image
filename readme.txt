@@ -46,6 +46,8 @@ if (function_exists('get_wp_term_image'))
 {
     $meta_image = get_wp_term_image($term_id); //It will give category/term image url 
 }
+
+echo $meta_image; // category/term image url
 ?>
 `
 where $term_id is 'category/term id'
