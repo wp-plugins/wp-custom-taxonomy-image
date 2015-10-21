@@ -1,5 +1,5 @@
 === Category and Taxonomy Image ===
-Tags: custom taxonomy field, taxonomy, taxonomy meta, term meta,category meta, custom fields, category image,tag image
+Tags: category icon, category image, texonomy image,taxonomy image, term image, tag image
 Contributors: amu02aftab
 Author: amu02aftab
 Tested up to: 4.3
