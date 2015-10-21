@@ -1,16 +1,14 @@
 <?php
 /**
- * Plugin Name: WP Custom taxonomy Image
+ * Plugin Name: Category and Taxonomy Image
  * Plugin URI: https://aftabhusain.wordpress.com/
- * Description: WP Custom Taxonomy Image Plugin allow you to add image with category/taxonomy.
+ * Description: Category and Taxonomy Image Plugin allow you to add image with category/taxonomy.
  * Version: 1.0.0
  * Author: Aftab Husain
  * Author URI: https://aftabhusain.wordpress.com/
  * License: GPLv2
  */
 
-
-global $texonomy_slug;
 
 $options = get_option('aft_options');
 $aft_taxonomies = $options['checked_taxonomies'];

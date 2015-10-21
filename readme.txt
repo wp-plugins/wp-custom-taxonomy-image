@@ -1,17 +1,17 @@
 === Custom taxonomy image ===
-Tags:  meta, custom field, taxonomy, taxonomy meta, term meta,category meta, custom fields, category image,tag image
+Tags: custom taxonomy field, taxonomy, taxonomy meta, term meta,category meta, custom fields, category image,tag image
 Contributors: amu02aftab
 Author: amu02aftab
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2
 Requires at least: 3.5.0
 Stable tag: 1.0
 
 
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=amu02.aftab@gmail.com&item_name=Donation+WP+Custom+taxonomy+image
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=amu02.aftab@gmail.com&item_name=Donation+category+and+Custom+taxonomy+image
 
 == Description ==
-WP Custom Taxonomy Image Plugin allow you to add image with category/taxonomy.
+Category and Taxonomy Image Plugin allow you to add image with category/taxonomy.
 
 = Features =
 * Setting ,for which taxonomy ,image field is to be enable. 
