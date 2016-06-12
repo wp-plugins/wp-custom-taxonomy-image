@@ -116,7 +116,7 @@ function tb_show(caption, url, imageGroup) {//function called when the user clic
 			imgPreloader.onload = function(){
 			imgPreloader.onload = null;
 
-			// Resizing large images - orginal by Christian Montoya edited by me.
+			// Resizing large images - original by Christian Montoya edited by me.
 			var pagesize = tb_getPageSize();
 			var x = pagesize[0] - 150;
 			var y = pagesize[1] - 150;
